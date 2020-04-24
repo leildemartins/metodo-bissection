@@ -1,5 +1,5 @@
 '''
-Olá Márcio!! esse é o básico do codigo
+Olá Mundo!! esse é o básico do codigo
 Solução aproximada da função f(x)=0 no intervalo [a,b] usando o método da bisseção.
 Explicando termo a termo.
 
